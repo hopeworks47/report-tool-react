@@ -1,0 +1,25 @@
+export const cercle  = require('./cercle.png');
+export const cercleNr  = require('./cercle_nr.png');
+export const x  = require('./x.png');
+export const xNr  = require('./x_nr.png');
+export const triangle  = require('./triangle.png');
+export const triangleNr  = require('./triangle_nr.png');
+export const carre  = require('./carre.png');
+export const carreNr  = require('./carre_nr.png');
+export const iRouge  = require('./i_rouge.png');
+export const iBleu  = require('./i_bleu.png');
+export const flecheRouge  = require('./fleche_rouge.png');
+export const flecheRougeNr  = require('./fleche_rouge_nr.png');
+export const flecheBleu  = require('./fleche_bleu.png');
+export const flecheBleuNr  = require('./fleche_bleu_nr.png');
+export const bracketRouge  = require('./bracket_rouge.png');
+export const bracketRougeNr  = require('./bracket_rouge_nr.png');
+export const bracketBleu  = require('./bracket_bleu.png');
+export const bracketBleuNr  = require('./bracket_bleu_nr.png');
+export const etoileRouge  = require('./etoile_rouge.png');
+export const etoileBleu  = require('./etoile_bleu.png');
+export const nrRouge  = require('./nr_rouge.png');
+export const nrBleu  = require('./nr_bleu.png');
+export const anterieur  = require('./anterieur.png');
+export const champLibre  = require('./champ_libre.png');
+

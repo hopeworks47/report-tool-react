@@ -1,0 +1,63 @@
+.w3-animate-right {
+	animation: animateright 0.8s !important;
+	/*transition: left 0.3s ease 0s;*/
+}
+.information-armq {
+	margin-top: 43px;
+}
+.desktop-layout {
+	width: 50%;
+}
+.input-checkbox div{
+	margin-bottom: 0 !important;
+	margin-left: 10px;
+}
+
+.mobile-tools-layout {
+	display: none;
+}
+.mobile-notes-spacing {
+	margin-bottom: 15px;
+}
+@media screen and (max-width: 1024px) {
+	/** {*/
+	/*	font-size: 13px;*/
+	/*}*/
+	.section-title {
+		font-size: 30px;
+	}
+	.mobile-layout {
+		width: 50%;
+	}
+	.rapport-mobile-text div{
+		margin-left: auto;
+		margin-right: auto;
+		font-size: 25px;
+		font-weight: bold;
+		text-align: center;
+		
+	}
+	.mobile-Annuler-btn {
+		padding-left: 35px;
+		display: flex;
+		justify-content: center;
+		margin-top: 20px;
+	}
+	.mobile-type-rapport {
+		margin-top: 20px;
+	}
+	.mobile-type-rapport .input-label {
+		font-size: 20px;
+		font-weight: bold;
+	}
+	.mobile-tool-option-layout {
+		width: 50%;
+	}
+	.mobile-tool-option-layout-2 {
+		display: flex;
+	}
+	.mobile-tool-title {
+		font-size: 20px;
+	}
+	
+}
